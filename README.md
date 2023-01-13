@@ -1,2 +1,2 @@
 # Building-modal-window
-Building the model window and giving it basic functionality with javascript.
+Building the modal windows and giving it basic functionality with javascript.
